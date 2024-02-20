@@ -2,12 +2,12 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Trang chủ"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Giới thiệu"
 url = "about/"
 weight = 2
 
@@ -18,31 +18,31 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Dự án"
 hasChildren = true
 
 [[main]]
-parent = "Pages"
+parent = "Dự án"
 name = "Blog"
 url = "blog/"
 
 [[main]]
-parent = "Pages"
+parent = "Dự án"
 name = "Contact"
 url = "contact/"
 
 [[main]]
-parent = "Pages"
+parent = "Dự án"
 name = "Authors"
 url = "authors/"
 
 [[main]]
-parent = "Pages"
+parent = "Dự án"
 name = "Categories"
 url = "categories/"
 
 [[main]]
-parent = "Pages"
+parent = "Dự án"
 name = "404 Page"
 url = "404/"
 

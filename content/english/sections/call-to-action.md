@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
+title: "Tìm hiểu thêm về lớp 6A1?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Hugoplate and Hugo. Build lightning-fast static sites with ease and flexibility."
+description: "Hãy cùng tìm hiểu thêm về lớp 6A1 Trường THCS La Phù"
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/hugoplate"
+  label: "Kênh YouTube của lớp"
+  link: "https://www.youtube.com"
 
 # don't create a separate page
 _build:

@@ -6,5 +6,4 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-![danh-sach-lop](/images/class_members.jpeg "Danh sách lớp")
-
+{{< image src="/images/class_members.png" caption="" alt="danh-sach-lop" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}

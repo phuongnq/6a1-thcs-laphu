@@ -33,7 +33,7 @@ features:
       - "Nơi này chứa đựng những cuốn sách vô cùng đa dạng, từ sách giáo khoa đến sách văn học, khoa học, và nhiều chủ đề khác nhau. Học sinh lớp 6A1 có thể tìm kiếm thông tin, học hỏi và phát triển kiến thức từ những tài liệu trong thư viện. "
       - "Đây là nơi thú vị để các bạn học sinh giao lưu, khám phá và trau dồi kiến thức!"
     button:
-      enable: true
+      enable: false
       label: "Xem thêm các hoạt động"
       link: "/activities"
 
@@ -43,9 +43,9 @@ features:
     bulletpoints:
       - "Tổ chức sinh nhật tại lớp không chỉ tạo kỷ niệm vui vẻ cho các bạn học sinh mà còn giúp các bạn tự tin và tích cực tham gia vào các hoạt động tập thể. Hãy tận hưởng những khoảnh khắc đáng nhớ cùng bạn bè và gia đình"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Xem thêm các hoạt động"
+      link: "/activities"
 
   - title: "Tinh thần học tập của lớp 6A1"
     image: "/images/hoc_tap.jpg"

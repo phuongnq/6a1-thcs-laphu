@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Bài viết"
 meta_title: ""
-description: "this is meta description"
+description: "Bài viết của lớp 6A1 và Trường THCS La Phù"
 ---

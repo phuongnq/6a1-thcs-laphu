@@ -1,6 +1,6 @@
 ---
-title: "Contact"
+title: "Liên hệ"
 meta_title: ""
-description: "this is meta description"
+description: "Liên hệ lớp"
 draft: false
 ---

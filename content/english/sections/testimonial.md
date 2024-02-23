@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "Các thầy cô nói gì về lớp 6A1"
-description: "Hãy cùng lắng nghe các thầy cô nói gì về tập thể lớp 6A1 nhé."
+title: "Tiếng nói từ các thành viên 6A1"
+description: "Hãy cùng lắng nghe những chia sẻ từ các thành viên 6A1 nhé!"
 
 # Testimonials
 testimonials:
-  - name: "Cô Nguyễn Thị Hà"
-    designation: "Giáo viên dạy Toán"
+  - name: "Học sinh"
+    designation: "Một bạn học sinh lớp 6A1"
     avatar: "/images/avatar-sm.png"
-    content: "Lớp 6A1 là một lớp học có năng lực và đam mê với môn Toán. Các em luôn chăm chỉ, nghiêm túc trong giờ học, tham gia tích cực các cuộc thi Toán học. Các em cũng có nhiều sáng kiến và sự sáng tạo trong việc giải quyết các bài toán khó. Tôi rất tự hào và yêu quý lớp 6A1."
+    content: "Con hứa sẽ ăn nói lễ phép vớ bố mẹ. Làm bài cố gắng được điểm cao và sẽ giúp bố mẹ nhiều việc hơn. Con và anh sẽ luôn ngoan ngoãn làm bố mẹ vui. Con sẽ giữ gìn góc học tập thật sạch sẽ, không để mẹ nhắc nữa. Con hứa sẽ làm việc nhanh hơn để không phải nhắc. Con sẽ tự giác trong việc học hơn."
 
-  - name: "Thầy Nguyễn Văn Quang"
-    designation: "Giáo viên dạy Tin học"
+  - name: "Học sinh"
+    designation: "Một bạn học sinh lớp 6A1"
     avatar: "/images/avatar-sm.png"
-    content: "Lớp 6A1 là một lớp học có tài năng và định hướng rõ ràng với môn Tin học. Các em không chỉ học tốt lý thuyết mà còn có khả năng lập trình và thiết kế các ứng dụng thực tế. Các em cũng rất năng động và hợp tác trong các dự án nhóm. Tôi rất ngưỡng mộ và khen ngợi lớp 6A1."
+    content: "Con mong bố mẹ sẽ bớt nghiêm khắc hơn để con rút kinh nghiệm. Bô mẹ không phải đi học xa nữa để quan tâm tới việc học của con hơn. Con mong được điểm cao để được bố mẹ tặng nhiêu quà hơn. Bố mẹ sẽ trẻ mãi không già để được sống lâu vớ gia đình hơn. Đó chính là điêu con mong ước nhất."
 
-  - name: "Cô Phạm Thị Lan"
-    designation: "Giáo viên dạy Văn"
+  - name: "Học sinh"
+    designation: "Một bạn học sinh lớp 6A1"
     avatar: "/images/avatar-sm.png"
-    content: "Lớp 6A1 là một lớp học có tình yêu và cảm xúc với môn Văn. Các em luôn chú ý, lắng nghe trong giờ học, thể hiện sự hiểu biết và phân tích sâu sắc về các tác phẩm văn học. Các em cũng có nhiều bài văn hay và độc đáo, phản ánh được tâm hồn và cuộc sống của các em. Tôi rất vui và cảm ơn lớp 6A1."
+    content: "Con hứa con sẽ học thật giỏi để không phụ lòng bố mẹ. Noi gương cho các em lớp Một, Hai, Ba, Bốn. Con hứa sẽ làm việc nhà, đỡ bố mẹ mệt mỏi. Và luôn luôn chăm chỉ để học thật gioi giống như hai chị lớn. Con hứa con sẽ tự giác học tập và làm việc nhà không lười biếng để bố mẹ vui. Con hứa con sẽ không cãi lời bố mẹ nữa."
 
-  - name: "Cô Nguyễn Thị Vân"
-    designation: "Hiệu trưởng trường THCS La Phù"
+  - name: "Học sinh"
+    designation: "Một bạn học sinh lớp 6A1"
     avatar: "/images/avatar-sm.png"
-    content: "Cô hiệu trưởng khen ngợi lớp 6A1 là một lớp học có nhiều hoạt động học tập và giải trí đa dạng, như thí nghiệm khoa học, dã ngoại, biểu diễn văn hóa, và lập trình. Cô ấy cảm thấy vui mừng khi thấy các em phát triển toàn diện về năng lực và kỹ năng. Cô ấy hy vọng các em sẽ tiếp tục duy trì và phát huy những thành tích đã đạt được, đồng thời cải thiện những điểm yếu còn tồn tại."
+    content: "Con mong muốn bố mẹ sẽ không cãi nhau vì đó không phải là gia đinh hạnh phúc. Con mong lớn lên con sẽ kiếm nhiều tiền để chăm sóc bố mẹ như bố mẹ chăm sóc con. Con mong bố có thể dành thời gian cho con để hai bố con thân thiết hơn và luôn quan tâm đến nhau hơn."
 
 # don't create a separate page
 _build:

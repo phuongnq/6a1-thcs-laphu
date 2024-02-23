@@ -2,7 +2,7 @@
 title: "Tập thể lớp 6A1"
 meta_title: "Giới thiệu"
 description: "Giới thiệu về lớp 6A1"
-image: "/images/avatar.png"
+image: "/images/thoi_khoa_bieu.jpg"
 draft: false
 ---
 

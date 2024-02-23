@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Chào mừng bạn đến với trang chủ lớp 6A1 THCS La Phù Hoài Đức, Hà Nội"
-  content: "Lớp 6A1 THCS La Phù Hoài Đức Hà Nội là một lớp học ở trường THCS La Phù, một trường THCS có bề dày truyền thống của huyện Hoài Đức, thành phố Hà Nội. Lớp 6A1 có nhiều hoạt động học tập và giải trí đa dạng, như thí nghiệm khoa học, dã ngoại, biểu diễn văn hóa, và lập trình."
-  image: "/images/banner.png"
+  content: "Lớp 6A1 THCS La Phù Hoài Đức Hà Nội là một lớp học trong khối 6 ở trường THCS La Phù, một trường THCS có bề dày truyền thống của huyện Hoài Đức, thành phố Hà Nội. Lớp 6A1 có nhiều hoạt động học tập và giải trí đa dạng, như thí nghiệm khoa học, dã ngoại, biểu diễn văn hóa, và lập trình."
+  image: "/images/thoi_khoa_bieu.jpg"
   button:
     enable: true
     label: "Kênh YouTube lớp 6A1"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Một vài thành tích của lớp 6A1"
-    image: "/images/service-1.png"
+    image: "/images/gallery/hoat_dong_01.jpg"
     content: "Lớp 6A1 THCS La Phù là một lớp học có nhiều thành tích xuất sắc trong học tập và các hoạt động ngoại khóa. Dưới đây là một số thành tích nổi bật của lớp em:"
     bulletpoints:
       - "Em Đặng Anh Thư, lớp 6A1, đã đạt giải nhất cuộc thi video clip “The Winner” về thầy cô và mái trường, do Trường THCS La Phù tổ chức vào ngày 20/11/2023."
@@ -24,7 +24,7 @@ features:
       link: "#"
 
   - title: "Các hoạt động ngoại khóa của lớp 6A1"
-    image: "/images/service-2.png"
+    image: "/images/gallery/hoat_dong_12.jpg"
     content: "Lớp 6A1 THCS La Phù là một lớp học có nhiều hoạt động ngoại khóa hấp dẫn và bổ ích. Dưới đây là một số hoạt động ngoại khóa mà lớp em đã tham gia hoặc sắp tham gia:"
     bulletpoints:
       - "Giao lưu văn hóa với trường THCS FPT Edu: Lớp em sẽ có cơ hội gặp gỡ và trò chuyện với các bạn học sinh từ trường THCS FPT Edu, một trường học hiện đại và tiên tiến về công nghệ1. Các em sẽ được trải nghiệm những hoạt động văn hóa đặc sắc của hai trường, như biểu diễn âm nhạc, múa, kịch, thể thao, nghệ thuật, … Các em cũng sẽ được tham quan các cơ sở vật chất và phòng thí nghiệm của trường FPT Edu, để tìm hiểu về những ứng dụng công nghệ mới nhất trong giáo dục."
@@ -32,11 +32,11 @@ features:
       - "Tham quan trải nghiệm tại Bảo tàng tỉnh Hà Giang: Lớp em đã tham gia hoạt động tham quan trải nghiệm tại Bảo tàng tỉnh Hà Giang vào ngày 25/11/2023. Tại đây, các em đã được tìm hiểu về truyền thống văn hóa địa phương và gắn với quảng bá du lịch bản sắc văn hóa Hà Giang. Các em đã được chiêm ngưỡng những hiện vật, tư liệu, tranh ảnh, video, … về lịch sử, văn hóa, địa lý, con người, … của tỉnh Hà Giang. Các em cũng đã được tham gia các trò chơi dân gian, thưởng thức các món ăn đặc sản, và mua sắm các sản phẩm thủ công mỹ nghệ của địa phương."
     button:
       enable: true
-      label: "Kênh YouTube của lớp"
-      link: "https://youtube.com"
+      label: "Xem thêm"
+      link: "/activities"
 
   - title: "Tinh thần học tập của lớp 6A1"
-    image: "/images/service-3.png"
+    image: "/images/hoc_tap.jpg"
     content: "Lớp 6A1 THCS La Phù là một lớp học có tinh thần học tập cao và tích cực. Dưới đây là một số điểm về tinh thần học tập của lớp em:"
     bulletpoints:
       - "Lớp em luôn chăm chỉ, nghiêm túc trong giờ học, tham gia tích cực các cuộc thi học sinh giỏi, olympic, và các hoạt động ngoại khóa."

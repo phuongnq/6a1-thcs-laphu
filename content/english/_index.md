@@ -15,12 +15,14 @@ features:
     image: "/images/gallery/hoat_dong_01.jpg"
     content: "Lớp 6A1 THCS La Phù là một lớp học có nhiều thành tích xuất sắc trong học tập và các hoạt động ngoại khóa. Dưới đây là một số thành tích nổi bật của lớp em:"
     bulletpoints:
-      - "Em Đặng Anh Thư, lớp 6A1, đã đạt giải nhất cuộc thi video clip “The Winner” về thầy cô và mái trường, do Trường THCS La Phù tổ chức vào ngày 20/11/2023."
-      - "Lớp 6A1 đã đoạt giải nhì Hội khỏe Phù Đổng cấp trường, năm học 2023-2024, với nhiều môn thi đấu như cầu lông, đẩy gậy, điền kinh, bóng bàn."
-      - "Lớp 6A1 đã tham gia hoạt động tham quan trải nghiệm tại Bảo tàng tỉnh Hà Giang vào ngày 25/11/2023, để tìm hiểu về truyền thống văn hóa địa phương và gắn với quảng bá du lịch bản sắc văn hóa Hoài Đức."
+      - "Giải A Hội chợ xuân"
+      - "Giải A trình diễn lớp học"
+      - "Giải A tập san 2/11"
+      - "Giải B văn nghệ 20/11"
+      - "Giải B trang trí lớp học"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Xem các dự án của lớp"
       link: "#"
 
   - title: "Thư viện sách"
@@ -34,6 +36,16 @@ features:
       enable: true
       label: "Xem thêm các hoạt động"
       link: "/activities"
+
+  - title: "Sinh nhật tháng"
+    image: "/images/sinh_nhat_thang.png"
+    content: "Lớp 6A1 tổ chức sinh nhật hàng tháng cho các bạn học sinh"
+    bulletpoints:
+      - "Tổ chức sinh nhật tại lớp không chỉ tạo kỷ niệm vui vẻ cho các bạn học sinh mà còn giúp các bạn tự tin và tích cực tham gia vào các hoạt động tập thể. Hãy tận hưởng những khoảnh khắc đáng nhớ cùng bạn bè và gia đình"
+    button:
+      enable: false
+      label: ""
+      link: ""
 
   - title: "Tinh thần học tập của lớp 6A1"
     image: "/images/hoc_tap.jpg"

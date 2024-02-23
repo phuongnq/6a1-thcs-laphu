@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Một vài thành tích của lớp 6A1"
-    image: "/images/gallery/hoat_dong_01.jpg"
+    image: "/images/gallery/hoat_dong_09.jpg"
     content: "Lớp 6A1 THCS La Phù là một lớp học có nhiều thành tích xuất sắc trong học tập và các hoạt động ngoại khóa. Dưới đây là một số thành tích nổi bật của lớp em:"
     bulletpoints:
       - "Giải A Hội chợ xuân"
@@ -55,7 +55,7 @@ features:
       - "Lớp em có nhiều sáng kiến và sự sáng tạo trong việc giải quyết các bài toán khó, thiết kế các ứng dụng thực tế, và thực hiện các video clip về thầy cô và mái trường."
       - "Lớp em cũng rất năng động và hợp tác trong các dự án nhóm, giúp đỡ nhau trong học tập và cuộc sống, và tôn trọng thầy cô và bạn bè."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Xem thêm phiếu học tập"
+      link: "/learning"
 ---

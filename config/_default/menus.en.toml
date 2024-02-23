@@ -23,6 +23,11 @@ hasChildren = true
 
 [[main]]
 parent = "Dự án"
+name = "Phiếu học tập"
+url = "learning/"
+
+[[main]]
+parent = "Dự án"
 name = "Thư viện"
 url = "libraries/"
 

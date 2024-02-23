@@ -23,16 +23,16 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Các hoạt động ngoại khóa của lớp 6A1"
-    image: "/images/gallery/hoat_dong_12.jpg"
-    content: "Lớp 6A1 THCS La Phù là một lớp học có nhiều hoạt động ngoại khóa hấp dẫn và bổ ích. Dưới đây là một số hoạt động ngoại khóa mà lớp em đã tham gia hoặc sắp tham gia:"
+  - title: "Thư viện sách"
+    image: "/images/thu_vien.png"
+    content: "Thư viện sách của lớp 6A1 THCS La Phù"
     bulletpoints:
-      - "Giao lưu văn hóa với trường THCS FPT Edu: Lớp em sẽ có cơ hội gặp gỡ và trò chuyện với các bạn học sinh từ trường THCS FPT Edu, một trường học hiện đại và tiên tiến về công nghệ1. Các em sẽ được trải nghiệm những hoạt động văn hóa đặc sắc của hai trường, như biểu diễn âm nhạc, múa, kịch, thể thao, nghệ thuật, … Các em cũng sẽ được tham quan các cơ sở vật chất và phòng thí nghiệm của trường FPT Edu, để tìm hiểu về những ứng dụng công nghệ mới nhất trong giáo dục."
-      - "Tham gia cuộc thi video clip “The Winner”: Lớp em đã thực hiện một video clip về thầy cô và mái trường THCS La Phù, để tham gia cuộc thi video clip “The Winner” do Trường THCS Phù Đổng tổ chức. Video clip của lớp em đã đạt giải nhất cuộc thi, với nội dung sáng tạo, hình ảnh đẹp, âm thanh sống động, và thông điệp ý nghĩa. Video clip của lớp em đã được đăng tải trên kênh YouTube của trường và nhận được nhiều lượt xem và bình luận tích cực."
-      - "Tham quan trải nghiệm tại Bảo tàng tỉnh Hà Giang: Lớp em đã tham gia hoạt động tham quan trải nghiệm tại Bảo tàng tỉnh Hà Giang vào ngày 25/11/2023. Tại đây, các em đã được tìm hiểu về truyền thống văn hóa địa phương và gắn với quảng bá du lịch bản sắc văn hóa Hà Giang. Các em đã được chiêm ngưỡng những hiện vật, tư liệu, tranh ảnh, video, … về lịch sử, văn hóa, địa lý, con người, … của tỉnh Hà Giang. Các em cũng đã được tham gia các trò chơi dân gian, thưởng thức các món ăn đặc sản, và mua sắm các sản phẩm thủ công mỹ nghệ của địa phương."
+      - "Thư viện sách của lớp 6A1 tại THCS La Phù là một nguồn tài liệu quý báu dành cho học sinh."
+      - "Nơi này chứa đựng những cuốn sách vô cùng đa dạng, từ sách giáo khoa đến sách văn học, khoa học, và nhiều chủ đề khác nhau. Học sinh lớp 6A1 có thể tìm kiếm thông tin, học hỏi và phát triển kiến thức từ những tài liệu trong thư viện. "
+      - "Đây là nơi thú vị để các bạn học sinh giao lưu, khám phá và trau dồi kiến thức!"
     button:
       enable: true
-      label: "Xem thêm"
+      label: "Xem thêm các hoạt động"
       link: "/activities"
 
   - title: "Tinh thần học tập của lớp 6A1"

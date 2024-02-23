@@ -6,8 +6,8 @@ banner:
   image: "/images/thoi_khoa_bieu.jpg"
   button:
     enable: true
-    label: "Kênh YouTube lớp 6A1"
-    link: "https://youtube.com"
+    label: "Giới thiệu thành viên"
+    link: "/about"
 
 # Features
 features:

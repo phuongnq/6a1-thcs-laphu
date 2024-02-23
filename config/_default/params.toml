@@ -57,9 +57,9 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
+description = "Trang chủ lớp 6A1 THCS La Phù, Hoài Đức, Hà Nội"
 author = "zeon.studio"
-image = "images/og-image.png"
+image = "images/hoc_tap.jpg"
 
 
 # site verifications
